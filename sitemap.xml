@@ -2,9 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://zhesong.info/2017/08/14/bitcoin-questions/</loc>
+    
+    <lastmod>2017-08-14T02:12:09.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://zhesong.info/2017/08/04/hongkong-20-years/</loc>
     
-    <lastmod>2017-08-03T16:30:55.000Z</lastmod>
+    <lastmod>2017-08-14T02:11:06.000Z</lastmod>
     
   </url>
   
@@ -142,14 +149,14 @@
   </url>
   
   <url>
-    <loc>http://zhesong.info/2016/01/13/my-credit-worth/</loc>
+    <loc>http://zhesong.info/2016/01/13/my-credit-worth-en/</loc>
     
     <lastmod>2017-07-15T08:32:01.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://zhesong.info/2016/10/07/back-to-china-ii/</loc>
+    <loc>http://zhesong.info/2016/01/02/annual-report-2015-en/</loc>
     
     <lastmod>2017-07-15T08:32:01.000Z</lastmod>
     
@@ -170,28 +177,7 @@
   </url>
   
   <url>
-    <loc>http://zhesong.info/2016/02/21/feng-tang-en/</loc>
-    
-    <lastmod>2017-07-15T08:32:01.000Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://zhesong.info/2016/04/12/product-views-behind-wechat-en/</loc>
-    
-    <lastmod>2017-07-15T08:32:01.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://zhesong.info/2016/04/12/product-views-behind-wechat/</loc>
-    
-    <lastmod>2017-07-15T08:32:01.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://zhesong.info/2016/01/31/father-two-stories-en/</loc>
     
     <lastmod>2017-07-15T08:32:01.000Z</lastmod>
     
@@ -205,14 +191,14 @@
   </url>
   
   <url>
-    <loc>http://zhesong.info/2016/01/05/github-three-levels/</loc>
+    <loc>http://zhesong.info/2016/02/21/feng-tang-en/</loc>
     
     <lastmod>2017-07-15T08:32:01.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://zhesong.info/2016/01/06/github-three-levels-en/</loc>
+    <loc>http://zhesong.info/2016/04/12/product-views-behind-wechat/</loc>
     
     <lastmod>2017-07-15T08:32:01.000Z</lastmod>
     
@@ -226,14 +212,21 @@
   </url>
   
   <url>
-    <loc>http://zhesong.info/2016/08/31/back-to-china/</loc>
+    <loc>http://zhesong.info/2016/01/06/github-three-levels-en/</loc>
     
     <lastmod>2017-07-15T08:32:01.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://zhesong.info/2016/01/02/annual-report-2015/</loc>
+    <loc>http://zhesong.info/2016/01/05/github-three-levels/</loc>
+    
+    <lastmod>2017-07-15T08:32:01.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://zhesong.info/2015/12/29/hello-world-en/</loc>
     
     <lastmod>2017-07-15T08:32:01.000Z</lastmod>
     
@@ -247,6 +240,20 @@
   </url>
   
   <url>
+    <loc>http://zhesong.info/2016/10/07/back-to-china-ii/</loc>
+    
+    <lastmod>2017-07-15T08:32:01.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://zhesong.info/2016/01/02/annual-report-2015/</loc>
+    
+    <lastmod>2017-07-15T08:32:01.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://zhesong.info/2016/03/06/libai-birthday-en/</loc>
     
     <lastmod>2017-07-15T08:32:01.000Z</lastmod>
@@ -254,7 +261,7 @@
   </url>
   
   <url>
-    <loc>http://zhesong.info/2015/12/29/hello-world-en/</loc>
+    <loc>http://zhesong.info/2016/01/31/father-two-stories-en/</loc>
     
     <lastmod>2017-07-15T08:32:01.000Z</lastmod>
     
@@ -275,7 +282,7 @@
   </url>
   
   <url>
-    <loc>http://zhesong.info/2016/01/02/annual-report-2015-en/</loc>
+    <loc>http://zhesong.info/2016/08/31/back-to-china/</loc>
     
     <lastmod>2017-07-15T08:32:01.000Z</lastmod>
     
@@ -289,7 +296,7 @@
   </url>
   
   <url>
-    <loc>http://zhesong.info/2016/01/13/my-credit-worth-en/</loc>
+    <loc>http://zhesong.info/2016/01/13/my-credit-worth/</loc>
     
     <lastmod>2017-07-15T08:32:01.000Z</lastmod>
     
